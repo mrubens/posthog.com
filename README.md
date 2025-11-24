@@ -123,3 +123,29 @@ We <3 contributions big and small. In priority order (although everything is app
     - Read more [detailed instructions in our manual](https://posthog.com/handbook/engineering/posthog-com/developing-the-website)
     - For basic edits, go to the file in GitHub and click the edit button (pencil icon)
 - Open [an issue](https://github.com/PostHog/posthog.com/issues/new) or [content idea](https://github.com/PostHog/posthog.com/issues/new?assignees=andyvan-ph&labels=content&template=blog-post-idea-template.md&title=%7BContent+type%7D+-+%7Btitle%7D)
+
+
+---
+
+```
+                    ___
+                 .-'   `-.
+                /         \
+                |         ;
+                |         |           ___.--,
+       _.._     |0) ~ (0) |    _.---'`__.-( (_.
+__.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`
+( ,.--'`   ',__ /./;   ;, '.__.'`    __
+_`) )  .---.__.' / |   |\   \__..--""  """--.,_
+`---' .'.''-._.-'`_./  /\ '.  \ _.-~~~````~~~-._`-.__.'
+      | |  .' _.-' |  |  \  \  '.               `~---`
+       \ \/ .'     \  \   '. '-._)
+        \/ /        \  \    `=.__`~-.
+        / /\         `) )    / / `"".`\
+  , _.-'.'\ \        / /    ( (     / /
+   `--~`   ) )    .-'.'      '.'.  | (
+          (/`    ( (`          ) )  '-;
+           `      '-;         (-'
+
+          PostHog - The hedgehog with analytics! 🦔
+```
